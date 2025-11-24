@@ -1,0 +1,13 @@
+# Core dependencies
+langchain
+langgraph
+langchain-openai
+pydantic
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Utilities
+python-dotenv
+
