@@ -1,3 +1,4 @@
+tenacity
 # Core dependencies
 langchain
 langgraph
